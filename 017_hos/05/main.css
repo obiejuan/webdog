@@ -1,0 +1,10 @@
+div{
+width: 125px;
+height: 100px;
+background-image: url("img/cat.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+border: black 25px;
+border-style: groove;
+border-radius: 100%;
+}

@@ -1,0 +1,11 @@
+div{
+width: 400px;
+height: 200px;
+border: red 10px;
+border-style: dashed;
+border-radius: 100%;
+margin: 20px auto;
+}
+.div2{
+    box-sizing: border-box;
+}
